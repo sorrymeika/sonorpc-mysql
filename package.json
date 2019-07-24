@@ -1,0 +1,16 @@
+{
+  "name": "snonorpc-mysql",
+  "version": "0.0.1",
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorrymeika/sonorpc-mysql.git"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  },
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "scripts": {}
+}
